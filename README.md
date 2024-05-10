@@ -1,6 +1,6 @@
 # Computer-Vision
-Write a program to 
-a) access camera in opencv
-b) read a video in opencv
-c)write a video in opencv
+Program to 
+a) access camera in opencv <br>
+b) read a video in opencv <br>
+c)write a video in opencv <br>
 d)apply filter in webcame video for canny, blur and feature detection.
