@@ -6,4 +6,5 @@ b) read a video in opencv <br>
 c)write a video in opencv <br>
 d)apply filter in webcame video for canny, blur and feature detection.
 <br>
-![image](https://github.com/PrathamKumar125/Computer-Vision/assets/115283906/809a4440-c281-413a-a790-c4735dde3c30)
+![image](https://github.com/PrathamKumar125/Computer-Vision/assets/115283906/4c5a4601-a26b-4b7a-b664-d3f1974fce5f)
+
